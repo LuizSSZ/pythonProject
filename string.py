@@ -1,0 +1,20 @@
+print("=/=Dados-de-cadastro=/=")
+
+name = input("Nome: ")
+age = input("Idade: ")
+city = input("Cidade: ")
+country = input("País: ")
+
+print("-------------\n")
+print("====DADOS====\n")
+print("-------------\n")
+
+print("---------------")
+print(f"NOME:{name}")
+print("---------------")
+print(f"IDADE:{age}")
+print("---------------")
+print(f"CIDADE:{city}")
+print("---------------")
+print(f"PAÍS:{country}")
+print("---------------")
